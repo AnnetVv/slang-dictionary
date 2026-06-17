@@ -5,7 +5,6 @@ import re
 
 # Шлях до CSV файлу
 csv_path = 'Словник.csv'
-# Шлях до CSV-файлу зі словником
 data_list = []
 if not os.path.exists(csv_path):
     print(f" Файл {csv_path} не знайдено!")
