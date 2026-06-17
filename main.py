@@ -712,5 +712,4 @@ html_content = f'''<!DOCTYPE html>
 output_file = 'index.html'
 with open(output_file, 'w', encoding='utf-8') as f:
     f.write(html_content)
-
 print("\n Створено index.html")
