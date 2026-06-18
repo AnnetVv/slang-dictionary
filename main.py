@@ -1,7 +1,6 @@
 import json
 import csv
 import os
-import re
 
 # Шлях до CSV файлу
 csv_path = 'Словник.csv'
